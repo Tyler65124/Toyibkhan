@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Toyibkhan
-- 👀 I’m interested in I am interested in creating a beautiful website and I like working with the algorithm.
+- 👀 I’m interested in creating a beautiful website and I like working with the algorithm.
 - 🌱 I’m currently studying javascript 
